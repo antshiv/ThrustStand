@@ -4,7 +4,7 @@ This repository will have all the information to create your own thrust stand.
 ![3d model preview of thrust stand](./assets/images/thrust_stand_3d_preview.jpg)
 
 ## Getting Started
-![3d model preview of thrust stand](./assets/images/photo_ver1.jpg)
+![Photo of thrust stand](./assets/images/photo_ver1.jpg)
 
 ### Prerequisites
 To build the thrust stand you will need the following:
@@ -18,6 +18,8 @@ To build the thrust stand you will need the following:
 * Emscripten (optional)
 
 ## Hardware 
+![High Level Schematic of thrust stand](./assets/images/High_level_schematic_diagram.jpg)
+
 This folder will contain both the mechanical and eletronics files required to build 
 the thrust stand. 
 The 3d model parts are modelled using Solidworks.
