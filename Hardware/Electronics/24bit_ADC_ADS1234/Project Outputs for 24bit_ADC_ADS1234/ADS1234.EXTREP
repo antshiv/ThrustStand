@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: ADS1234.GBR   2021-09-30  3:57:21 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
+.GKO                Keep-Out Layer                          
+.GML                Multi-Layer                             
+.1                  Dielectric 1                            
+------------------------------------------------------------------------------------------

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [24bit_ADC_ADS1234.PrjPcb]
+   Generated File[ADS1234.TXT]
+   Generated File[ADS1234.LDP]
+   Generated File[ADS1234.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:57:57 PM On 2021-09-30
