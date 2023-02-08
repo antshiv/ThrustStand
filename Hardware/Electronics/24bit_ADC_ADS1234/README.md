@@ -2,7 +2,10 @@
 Datasheet: https://www.ti.com/lit/ds/symlink/ads1234.pdf
 
 The Load Cell Amplifier is a 24-bit ADC with 4 differential inputs. The ADC is connected to the main board using SPI.
-You can use a USB to SPI converter to connect the ADC to your computer. 
+You can use a USB to SPI converter to connect the ADC to your computer.
+
+## Video instruction:
+Schematic walkthrough: https://youtu.be/NklVhEleiHI
 
 This folder contains the following files:
 * ADS1234.sch: Altium Designer schematic file
