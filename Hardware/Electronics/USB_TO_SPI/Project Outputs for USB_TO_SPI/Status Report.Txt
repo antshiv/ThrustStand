@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [USB_TO_SPI.PrjPcb]
+   Generated File[UART_TO_SPI-RoundHoles.TXT]
+   Generated File[UART_TO_SPI-SlotHoles.TXT]
+   Generated File[UART_TO_SPI.LDP]
+   Generated File[UART_TO_SPI.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:59:38 PM On 2021-11-12

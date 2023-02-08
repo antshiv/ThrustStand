@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: UART_TO_SPI.PcbDoc   2021-11-12  9:59:36 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : UART_TO_SPI-RoundHoles.TXT
+ASCII SlotHoles File : UART_TO_SPI-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.711mm (28mil)                                           Round             14        PTH        60.84mm (2.40inch)
+T2      0.9mm (35mil)                                             Round             16        PTH        50.56mm (1.99inch)
+T3      1mm (39mil)                                               Slot              2         PTH        25.90mm (1.02inch)
+T4      1.1mm (43mil)                                             Round             2         NPTH       4.50mm (0.18inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              34
+
+Total Processing Time (hh:mm:ss) : 00:00:01

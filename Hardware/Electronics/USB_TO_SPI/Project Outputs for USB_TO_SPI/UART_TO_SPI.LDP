@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\USB_TO_SPI\UART_TO_SPI.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=uart_to_spi-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=uart_to_spi-slotholes.txt|DrillLayers=gtl,gbl

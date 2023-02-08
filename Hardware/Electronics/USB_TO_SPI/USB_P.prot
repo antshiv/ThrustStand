@@ -1,0 +1,19 @@
+ FREACS - Fast REflection And Crosstalk Simulator - V3.1.6 
+ Copyright (C) INCASES Engineering GmbH 1996, 1997 
+ 
+ Date		         : Fri Oct  1 11:16:50 2021
+ 
+ Input file    	         : USB_P.in 
+ Protocol file 	         : USB_P.prot 
+ 
+ [Message] Line : 4 :  Environment variable 'FREACS_MODEL_LIB'  will be used 
+ < ___HC_040_S0_out.mac > 
+ 
+ 
+ Voltage Output files        : 
+ 
+ 
+ protel_si.dia :  V( U_19.1 )   V( J1_3.1 )  
+ 
+ [Message] DC-operating point found in (steps) : 12 
+ 
