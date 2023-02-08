@@ -36,8 +36,8 @@ This folder will contain all the documentation required to build the thrust stan
 ## Images
 This folder will contain all the images used in the documentation.
 assets/images
-![Base](./assets/images/ThrustStand_Base.jpg)
-![Upper support plate](./assets/images/ThrustStand_Upper_support_plate.jpg)
+![Base](./assets/images/ThrustStand_Base.JPG)
+![Upper support plate](./assets/images/ThrustStand_Upper_support_plate.JPG)
 
 ## Contributing
 [![How to contribute](./assets/images/contribution_video_link.jpg)](https://www.youtube.com/live/BosoYqDCeg8?feature=share)
