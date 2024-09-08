@@ -47,6 +47,10 @@ This folder will contain all the images used in the documentation.
 [![How to contribute](./assets/images/contribution_video_link.jpg)](https://www.youtube.com/live/BosoYqDCeg8?feature=share)
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
+## Community
+Please join our discord server to ask questions, share your projects, and help others. 
+[![Discord](https://yt3.googleusercontent.com/Ws_BpAWD46mOjCW3XCnsZ0YmghW-6fhMf6d9pvCvb4g8JJftgvL54039U1mgh31OchR4ApMTezc=s160-c-k-c0x00ffffff-no-rj)](https://discord.gg/k6autHK4)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
