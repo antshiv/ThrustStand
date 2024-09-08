@@ -1,6 +1,9 @@
 # ThrustStand
 This repository will have all the information to create your own thrust stand.
 
+You can see the demonstration of this thruststand using a different type of propeller
+[![Thrust stand demonstration](assets/images/demo.PNG)](https://youtube.com/shorts/VANF9MFKnCU?si=GJHsOCgezW9ZtgUu)
+
 ![3d model preview of thrust stand](./assets/images/thrust_stand_3d_preview.jpg)
 
 ## Getting Started
